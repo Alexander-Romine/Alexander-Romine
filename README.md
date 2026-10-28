@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="event-horizon-ascii.svg" alt="Alexander Romine - CS @ Purdue" width="680" />
+  <img src="event-horizon-ascii.svg" width="100%" alt="Alexander Romine - CS @ Purdue" />
 </p>
